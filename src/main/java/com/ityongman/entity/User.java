@@ -12,7 +12,7 @@ import java.io.Serializable;
  * 
  * </p>
  *
- * @author Yanghu
+ * @author ityongman
  * @since 2019-07-04
  */
 @TableName("tb_user")
